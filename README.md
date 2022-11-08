@@ -1,2 +1,13 @@
 # snake_term
-a snake in terminal (linux)
+ 
+snake in terminal
+
+## Usage
+
+- Compile:
+
+  `bash compile.sh`
+
+- Launch:
+
+  `./snake`
